@@ -1,0 +1,3 @@
+@echo off
+echo downloaded all files, ready...
+pause >null
